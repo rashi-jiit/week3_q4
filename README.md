@@ -1,7 +1,6 @@
-I found an open-source C project on GitHub that implements Dijkstra's algorithm. The project is called Dijkstra-C by Maximetinu. This implementation supports reading the adjacency matrix from a file or terminal input and provides output in the same manner. It includes features for generating graph visualizations using Graphviz.
-
 ## Code Structure and Function Documentation
 ## dijkstra.h
+I found an open-source C project on GitHub that implements Dijkstra's algorithm. The project is called Dijkstra-C by Maximetinu. This implementation supports reading the adjacency matrix from a file or terminal input and provides output in the same manner. It includes features for generating graph visualizations using Graphviz.
 
 ## Purpose: 
 This file contains the core logic for Dijkstra's algorithm.
